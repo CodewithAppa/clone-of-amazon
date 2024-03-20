@@ -1,1 +1,1 @@
-https://github.com/CodewithAppa/clone-of-amazon.git
+(https://github.com/CodewithAppa/clone-of-amazon.git)
